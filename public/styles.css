@@ -75,6 +75,12 @@ width: 50%;
     .flex-md-equal > * {
       flex: 1;
     }
+    .about-portion{
+      width: 16rem !important;
+    }
+    .contact-portion{
+      width: 20rem !important;
+    }
     .main-div{
       padding-bottom: 2% !important;
     }

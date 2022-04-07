@@ -27,7 +27,7 @@ function App() {
 
   {/* <!-- About --> */}
   <div id="about-div" className="main-div position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
-    <div className="col-md-5 p-lg-5 mx-auto my-5 top-text-div">
+    <div className="col-md-5 p-lg-5 mx-auto about-portion my-5 top-text-div">
       <h1 className="display-4 fw-normal main-head">About</h1>
       <p className="lead main-info fw-normal">We at S&D pledge to deliver the best quality of footwear you'll ever Need!</p>
       <p className="lead main-info fw-normal">We sell footwear for everyone: Men , Women and the Lovely Kids</p>
@@ -40,7 +40,8 @@ function App() {
   </div>
   {/* <!-- Contact --> */}
   <div id="contact-div" className="main-div position-relative overflow-hidden p-3 -md-3 text-center bg-light">
-    <div className="col-md-5  mx-auto top-text-div">
+  <center>
+    <div className="col-md-5 mx-auto contact-portion top-text-div">
       <div className="contact-slipper"><img src="slipper5.png" alt="slipper5"/></div>
       <h1 className="display-4 fw-normal main-head">Contact Us</h1>
       <br/>
@@ -54,6 +55,7 @@ function App() {
       <br/>
       <br/>
     </div>
+    </center>
 
   </div>
   
