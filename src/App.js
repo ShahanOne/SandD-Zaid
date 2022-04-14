@@ -29,7 +29,7 @@ function App() {
   <div id="about-div" className="main-div position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
     <div className="col-md-5 p-lg-5 mx-auto about-portion my-5 top-text-div">
       <h1 className="display-4 fw-normal main-head">About</h1>
-      <p className="lead main-info fw-normal">We at S&D pledge to deliver the best quality of footwear you'll ever Need!</p>
+      <p className="lead main-info fw-normal">We at SandD pledge to deliver the best quality of footwear you'll ever Need!</p>
       <p className="lead main-info fw-normal">We sell footwear for everyone: Men , Women and the Lovely Kids</p>
       <p className="lead main-info fw-normal">Feel free to contact us for any Buisiness or Product related queries</p>
       <p className="lead main-info fw-normal">We are open for Buisines Collaborations</p>
